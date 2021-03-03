@@ -29,4 +29,4 @@ target = "_blank" = 새탭에서 링크를 열때
 4. HTML(17개의 기존의 태그의 + a태그) 팀 버너스리
 
 * 부가적인 것
-DOCTYPE(Document type declaration) : 문서의 타입을 선언하는 문자 -- 사용할때 : <!DOCTYPE html>
+DOCTYPE(Document type declaration) : 문서의 타입을 선언하는 문자 -- 사용할때 : <!DOCTYPE html> 
