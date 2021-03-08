@@ -49,6 +49,7 @@
     - button = 버튼이 생겨나지만 글자가 없는 빈박스이고 value를 사용하여 text를 입력해야한다
                (submit과 달리 따로 서버로 이동 하지는 않는다. * js랑 같이 사용할때만 의미 있음)
     - reset = <form>안에있는 사용자가 입력한 데이터를 초기화 해준다.
+    - hidden = UI이 없이 서버로 데이터가 
 <textarea>
   * cols = 열의 글자수를 지정 (columns)
   * rows = 행의 글자수를 지정 (row)
