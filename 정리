@@ -79,6 +79,9 @@ DOCTYPE(Document type declaration) : 문서의 타입을 선언하는 문자 = �
 <font> </font> = 퇴출된 태그로 사용하지 않는 것을 권장함 CSS로 대체됨
                 (시각적인 것만 있을뿐 정보적의미가 들어있지 않음)
 <meat> = 웹페이지를 설명해줄때 사용함
+<meta name ="viewport" content = " width = device-width, initial = 1.0 ">
+: 이 코드를 사용하면 각 디바이스크기에 맞춰서 웹사이트를 띄어주는 기능을 가지고 있다.
+  기본적으로 넣어야하는 코드이다.
 HTML은 의미론적인 부분을 중점으로 코딩해야함.
 
 
